@@ -1,0 +1,2 @@
+# linkamnal.github.io
+blog
